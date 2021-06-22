@@ -1,5 +1,5 @@
 ---
-title: First project 
+title: Note sur la  Méthalogique
 date: "2015-05-28T22:40:32.169Z"
 description: This is me basicaly trying to write on a topic 
 ---
@@ -15,3 +15,5 @@ description: This is me basicaly trying to write on a topic
 let name = bojour;
 
 ```
+
+![]() 
